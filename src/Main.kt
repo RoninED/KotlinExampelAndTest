@@ -1,4 +1,4 @@
-fun main (args: Array<String>){
+fun main(args: Array<String>) {
 
 //    var name: String = "Ed"
 //
@@ -16,7 +16,7 @@ fun main (args: Array<String>){
 //Для присвоения null нужно после типа указать "?"
 // */
 //    var d: Int? = null
-    
+
 //------------------------------------------------------------
 
     ////CLASS
@@ -32,7 +32,7 @@ fun main (args: Array<String>){
 //    var classExampleSecondConstructor = ClassExample("Vasya", "Suslicov", 3)
 //    classExampleSecondConstructor.printName()
 
-//------------------------------------------------------------
+//------------------------------------------------------------a
 
     ////ENUM
 //    var enumExample = EnumExample()
@@ -120,7 +120,6 @@ fun main (args: Array<String>){
 //    if (a is Int) println("a is Int")
 
     ////SEALED CLASS
-
 
 
     ////
