@@ -1,18 +1,20 @@
-import com.sun.xml.internal.fastinfoset.util.StringArray
-
 fun main(args: Array<String>) {
 
-//    var name: String = "Ed"
-//
-//    var a: Int = 1
-//    var b: Int = 2
-//    println("Hello $name")
-//    println("A + B = ${a+b}")
+    var name: String = "Ed"
 
-//    val variables = Variables("Aaaaaa")
-//    print(variables.A)
+    var exampleAny: Any = "Hi"
+    exampleAny = 3
+    println("Пример типа Any ${exampleAny+1}")
 
-//    println(turboPushka(2))
+    var exampleAuto = 5
+    println("Автоопределение типа ${exampleAuto+1}")
+
+    var a: Int = 1
+    var b: Int = 2
+    println("Hello $name")
+    println("A + B = ${a+b}")
+
+
 
 ///*
 //Для присвоения null нужно после типа указать "?"
