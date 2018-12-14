@@ -1,27 +1,38 @@
 fun main(args: Array<String>) {
+    ////Назначение переменных__________________________________________________________________________________________________
 
-    var name: String = "Ed"
-
-    var exampleAny: Any = "Hi"
-    exampleAny = 3
-    println("Пример типа Any ${exampleAny+1}")
-
-    var exampleAuto = 5
-    println("Автоопределение типа ${exampleAuto+1}")
-
-    var a: Int = 1
-    var b: Int = 2
-    println("Hello $name")
-    println("A + B = ${a+b}")
-
-
+//    var name: String = "Ed"
+//
+//    var exampleAny: Any = "Hi"
+//    exampleAny = 3
+//    println("Пример типа Any ${exampleAny+1}")
+//
+//    var exampleAuto = 5
+//    println("Автоопределение типа ${exampleAuto+1}")
+//
+//    var a: Int = 1
+//    var b: Int = 2
+//    println("Hello $name")
+//    println("A + B = ${a+b}")
 
 ///*
 //Для присвоения null нужно после типа указать "?"
 // */
 //    var d: Int? = null
 
-//------------------------------------------------------------
+    //------------------------------------------------------------
+
+    ////RANGE__________________________________________________________________________________________________
+//    var b = 6
+//    var a = 1..b step 2
+//    var e = 1 until 10 //диапазон не включающий верхнюю планку
+//    var c = 'a'..'e' //диапазон букв
+//    var d = 10 downTo 5 //обратный диапазон
+//    var isInRange = 5 in e // true если число в диапазоне "е"
+//    var isInRange2 = 5 !in e // false если число в диапазоне "е"
+//    for(c in 1..8 step 2) println(c)
+
+    //------------------------------------------------------------
 
     ////CLASS__________________________________________________________________________________________________
 //    var classExample = ClassExample("Fedor", 2)
@@ -48,19 +59,32 @@ fun main(args: Array<String>) {
 //}
 //fun turboPushka(a: Long): Int {
 //    return 1
+
+
+    /*
+    Функция может принимать переменное количество параметров одного типа. Для определения таких параметров применяется ключевое слово vararg.
+     */
+    fun manyOneTypeParametres (vararg s: Any){
+        for (str in s){
+            println(str)
+        }
+    }
+    manyOneTypeParametres("hi", "by",4)
 //------------------------------------------------------------
 
     ////WHEN__________________________________________________________________________________________________
-//    var N =1
+//    var N =7
 //    var result = when(N) {
 //        1, 2 -> "один или два "
 //        3 -> "three"
 //        4 -> "four"
 //        5 -> "five"
+//        in 6..10 -> "from six till ten"
 //        else -> {
 //            println("nothing")
 //        }
 //    }
+//    println(result)
 //
 //    when {
 //        (N==1) -> println("wtf")
@@ -195,8 +219,6 @@ fun main(args: Array<String>) {
 //            if (a == 3) continue@CONTINUETEST
 //        }
 //    }
-
-
 
 
 //------------------------------------------------------------
