@@ -15,6 +15,8 @@ fun main(args: Array<String>) {
 //    println("Hello $name")
 //    println("A + B = ${a+b}")
 
+
+
 ///*
 //Для присвоения null нужно после типа указать "?"
 // */
@@ -57,19 +59,38 @@ fun main(args: Array<String>) {
     ////FUN__________________________________________________________________________________________________
 //fun empty() {
 //}
-//fun turboPushka(a: Long): Int {
-//    return 1
 
+//    fun turboPushka(a: Long): Int {
+//        return 1
+//    }
+//
+//    fun oneLineFunction (a:Int) = a+2
 
     /*
     Функция может принимать переменное количество параметров одного типа. Для определения таких параметров применяется ключевое слово vararg.
      */
-    fun manyOneTypeParametres (vararg s: Any){
-        for (str in s){
-            println(str)
-        }
-    }
-    manyOneTypeParametres("hi", "by",4)
+//    fun manyOneTypeParametres (vararg s: Any){
+//        for (str in s){
+//            println(str)
+//        }
+//    }
+//    manyOneTypeParametres("hi", "by",4)
+
+
+    /*
+    Именный аргументы в функциях + параметр со значением по умолчанием (age)
+     */
+//fun gurrenLagann (name: String, surname: String, age:Int=19){
+//        println(age)
+//    }
+//    gurrenLagann("noVasya", "Suslikov")
+//    gurrenLagann(surname = "Suslikov", name = "Vasya", age = 20)
+
+
+//    var hi = fun (): String{ //пример анонимной функции
+//        return "hi анонимная функция"
+//    }
+//    println(hi())
 //------------------------------------------------------------
 
     ////WHEN__________________________________________________________________________________________________
@@ -220,7 +241,50 @@ fun main(args: Array<String>) {
 //        }
 //    }
 
+//------------------------------------------------------------
+
+////Лямбда__________________________________________________________________________________________________
+
+//
+//
+//    val hello2 = {println("hello2")}
+//    hello2()
+//
+//
+//    run({ println("hello3")})
+//
+//
+//    var hello4 = {hello41: Int, hello42: Int  ->
+//        var result: Int = hello41 + hello42
+//        println("hello$result")
+//    result  //последняя строка возвращается как результат лямбда выражения
+//    }
+//    hello4(1,3)
+//
+//
+//    var hello5 = {a: Int, b: Int -> a+b}
+//    println("hello${hello5(1,3) + 1}")
+//
+//
+//    val hello6: (String) -> Unit = {message: String -> println("hello6")}   //пример как принудительно указать тип возвращаемого значения "Unit"
+//
+//
+//    var hello7 = {a:Int, b:Int -> a+b}  //использование лямбда функции как параметр метода
+//    fun hello7Fun (lamdaFun: (a:Int, b:Int) -> Int){
+//        println("hello${lamdaFun(4,3)}")
+//    }
+//    hello7Fun(hello7)
+//
+//
+//    fun hello8Fun (): (a: Int, b:Int) -> Int {  //возврат функции из метода
+//        return {a: Int, b: Int -> a+b}}
+//    var hello8 = hello8Fun()
+//    println("hello${hello8(4,4)}")
 
 //------------------------------------------------------------
+
+
+
+
 }
 
