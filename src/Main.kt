@@ -16,7 +16,6 @@ fun main(args: Array<String>) {
 //    println("A + B = ${a+b}")
 
 
-
 ///*
 //Для присвоения null нужно после типа указать "?"
 // */
@@ -46,9 +45,14 @@ fun main(args: Array<String>) {
 //    classExample.boolean2 =false
 //    println(classExample.boolean2)
 //
-//    var classExampleSecondConstructor = ClassExample("Vasya", "Suslicov", 3)
+//    var classExampleSecondConstructor = ClassExample("Vasya", "Suslicov", 3) //пример со вторым конструктором
 //    classExampleSecondConstructor.printName()
-
+//
+//    println(classExample.infoBoolean2) //пример с геттером
+//
+//    println(classExample.exampleGetSet) //пример работы геттер сеттера
+//    classExample.exampleGetSet = "WTF"
+//    println(classExample.exampleGetSet)
 //------------------------------------------------------------a
 
     ////ENUM__________________________________________________________________________________________________
@@ -243,7 +247,7 @@ fun main(args: Array<String>) {
 
 //------------------------------------------------------------
 
-////Лямбда__________________________________________________________________________________________________
+////LAMBDA__________________________________________________________________________________________________
 
 //
 //
@@ -283,7 +287,12 @@ fun main(args: Array<String>) {
 
 //------------------------------------------------------------
 
+////EXTENDCLASS__________________________________________________________________________________________________
+    var extendClassExample2: ExtendClassExample2 = ExtendClassExample2()
 
+    extendClassExample2.Hi()
+
+//------------------------------------------------------------
 
 
 }
