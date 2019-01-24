@@ -18,7 +18,7 @@ class ClassExample(var name: String, var age: Int) {                            
     var exampleGetSet: String? = null
         get() = "/geter добавил/ $field"
         set(value) {
-            field = "/setter изменил /$value"
+            field = "/setter изменил /$value"   //field - это обращение к текущему полю
         }
 
 
@@ -40,3 +40,5 @@ class ClassExample(var name: String, var age: Int) {                            
 
 
 }
+
+

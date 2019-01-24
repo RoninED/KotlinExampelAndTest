@@ -36,6 +36,10 @@ fun main(args: Array<String>) {
 //    val name : String?  = "John"
 //    val id: String = name!! //если name будет null, то возникнет NullPointerException
 //    println(id)
+//
+//    print("Пример ввода с клавы - Напиши что нибудь: ")
+//    var a: String? = readLine()
+//    println("Написано: $a")
 
     //------------------------------------------------------------
 
@@ -52,6 +56,22 @@ fun main(args: Array<String>) {
     //------------------------------------------------------------
 
     ////CLASS__________________________________________________________________________________________________
+//class Example1(A:Int){      //Первичный конструктор
+//        var A=A             //Инициализация
+//    }
+//
+//class Example2(A:Int){
+//    var A:Int
+//    init {                  //Инициализация через init - Судя по всему не нужная штука
+//        this.A=A
+//    }
+//}
+//
+//class Example3 (var A:Int, var B:Int=1)  //Инициализация в конструкторе, у "B" стоит значение по умолчанию  - Самый топчик
+
+
+//==============Старые примеры===================
+
 //    var classExample = ClassExample("Fedor", 2)
 //    classExample.printName()
 //
@@ -432,24 +452,34 @@ fun main(args: Array<String>) {
 
 //------------------------------------------------------------
 ////Collection__________________________________________________________________________________________________
-//    Arraylist
-    var numbers1 : ArrayList<Int> = arrayListOf(1, 2, 3, 4, 5)
-    numbers1.add(4)
-    numbers1.clear()
+////    Arraylist
+//    var numbers1 : ArrayList<Int> = arrayListOf(1, 2, 3, 4, 5)
+//    numbers1.add(4)
+//    numbers1.clear()
+//
+////    Map
+//    var countries: Map<String, Int> = mapOf("USA" to 300, "France" to 60, "Germany" to 81)
+//    println(countries["USA"])   // 300
+//    for(country in countries){
+//        println("${country.key} - ${country.value}")
+//    }
+//
+////    Set
+//    var items = setOf(1, 2, 3, 4, 5)
+//    println(items.size)          // 5
+//    println(items.contains(4))  // true
+//    println(items.isEmpty())    // false
+//    println(items.minus(3))     // [1, 2, 4, 5]
+//    println(items.plus(7))      //  [1, 2, 3, 4, 5, 7]
 
-//    Map
-    var countries: Map<String, Int> = mapOf("USA" to 300, "France" to 60, "Germany" to 81)
-    println(countries["USA"])   // 300
-    for(country in countries){
-        println("${country.key} - ${country.value}")
-    }
 
-//    Set
-    var items = setOf(1, 2, 3, 4, 5)
-    println(items.size)          // 5
-    println(items.contains(4))  // true
-    println(items.isEmpty())    // false
-    println(items.minus(3))     // [1, 2, 4, 5]
-    println(items.plus(7))      //  [1, 2, 3, 4, 5, 7]
 }
 
+class NibirunianClass {
+
+    var namePlate: String =""
+
+    fun createNamePlate(name: String) {
+        namePlate = "Live long and prosper, $name"
+    }
+}
