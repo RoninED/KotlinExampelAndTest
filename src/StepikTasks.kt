@@ -6,6 +6,7 @@ class SensorsMeltException() : Exception()
 class SphinxesException() : Exception()
 
 fun main(args: Array<String>) {
+
     fun calcNullValues(input: Array<Int?>):Array<Int>{
         var a:Int = 0
         var b:Int = 0
