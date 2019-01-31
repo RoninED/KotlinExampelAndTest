@@ -1,23 +1,22 @@
 class StepikTasks {
 }
 
+class EngineNotFoundException() : Exception()
+class SensorsMeltException() : Exception()
+class SphinxesException() : Exception()
+
 fun main(args: Array<String>) {
-    var bugCivilian = BugCivilian(2,"das")
-    println(bugCivilian.getSugarLimit())
-}
+    fun calcNullValues(input: Array<Int?>):Array<Int>{
+        var a:Int = 0
+        var b:Int = 0
+        for (tmp in input)
+            when {
+                tmp ==null -> a++
+                else -> b+=tmp
+            }
 
-open class Bug(val rank: Int, val name:String) {
-    open fun getSugarLimit(): Int{
-        return rank
+return arrayOf(a,b)
     }
+    calcNullValues(arrayOf(null, 1,2)).forEach { print("$it ") }
 
-    fun getId(): String{
-        return "${rank}.${name}"
-    }
-}
-
-class BugCivilian (rank: Int, name:String):Bug(rank,name){
-    override fun getSugarLimit(): Int {
-        return rank/2
-    }
 }

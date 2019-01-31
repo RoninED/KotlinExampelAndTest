@@ -41,6 +41,18 @@ fun main(args: Array<String>) {
 //    var a: String? = readLine()
 //    println("Написано: $a")
 
+//
+    var a:Int? = null
+    var b:Int = a?:0                  //если a=null то b примет значение 0
+    var a1:String = readLine()?:"0"   //тоже самое из метода
+    println(b)
+    var c:Int = a!!                    //типа я не боюсь если null, поэтому ошибка
+
+
+
+
+
+
     //------------------------------------------------------------
 
     ////RANGE__________________________________________________________________________________________________
@@ -452,11 +464,27 @@ fun main(args: Array<String>) {
 
 //------------------------------------------------------------
 ////Collection__________________________________________________________________________________________________
+// https://metanit.com/java/kotlin/7.2.php
+
+////Array
+//var array: Array <Any> = arrayOf(1,2,3)
+//    println(array[1])
+//    array[1] = 3.2
+//    println(array[1])
+//    array.set(1,'s')
+//    println(array.get(1))
+
 ////    Arraylist
 //    var numbers1 : ArrayList<Int> = arrayListOf(1, 2, 3, 4, 5)
 //    numbers1.add(4)
 //    numbers1.clear()
-//
+
+
+////List
+//    var list = listOf(1,2)
+//  println(list[0])
+//  println(list.get(1))
+
 ////    Map
 //    var countries: Map<String, Int> = mapOf("USA" to 300, "France" to 60, "Germany" to 81)
 //    println(countries["USA"])   // 300
@@ -473,13 +501,28 @@ fun main(args: Array<String>) {
 //    println(items.plus(7))      //  [1, 2, 3, 4, 5, 7]
 
 
+    //// Mutable Types
+//    var mutableList = mutableListOf(1,2)
+
+//    var mutableMap: MutableMap<String, String> = mutableMapOf("a" to "dsa", "b" to "sda")
+//    println(mutableMap["a"])
+
+//    var mutableSet: MutableSet<String> = mutableSetOf("a", "a", "b")
+//    mutableSet.add("c")
+//    mutableSet.add("a")
+//    for (temp in mutableSet){
+//        println(temp)
+//    }
+
+////Конструктор с функцией
+//    var list3 : List<Int> = List<Int>(10, {i -> i*i}) // список из 10 элементов - квадратов чисел от 0 до 9 (будет создан ArrayList)
+
+
+    //------------------------------------------------------------
+////IT__________________________________________________________________________________________________
+//var a:String = "d s a s a "
+//    println(a.groupBy { it })
+//    println(a.split(" ").groupBy { it })
 }
 
-class NibirunianClass {
 
-    var namePlate: String =""
-
-    fun createNamePlate(name: String) {
-        namePlate = "Live long and prosper, $name"
-    }
-}
