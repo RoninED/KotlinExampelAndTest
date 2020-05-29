@@ -1,0 +1,201 @@
+{
+  "meta": {
+    "status": "OK",
+    "message": null
+  },
+  "data": {
+    "current": {
+      "id": "prodMyOnlinePlusMSK_122019_old",
+      "billingId": 2916,
+      "slug": "my-online-plus-04-2020",
+      "name": "Мой онлайн+ 04_2020",
+      "slogan": "Тарифный план закрыт для подключения",
+      "text": "безлимит на Tele2 России",
+      "abonentFee": {
+        "amount": 700.00,
+        "currency": "RUB"
+      },
+      "abonentFeePeriod": "month",
+      "changePrice": {
+        "amount": 150.00,
+        "currency": "RUB"
+      },
+      "packed": true,
+      "hit": false,
+      "hitInAuthorized": false,
+      "tuningAvailable": false,
+      "expendedInInternationalRoaming": false,
+      "tariffType": "TARIFF_SMART_SELF_CARE2",
+      "cardType": "beautifullCard",
+      "url": "/tariff/my-online-plus-04-2020",
+      "tariffsPackages": [
+        {
+          "size": 800.0,
+          "description": "на остальные номера России",
+          "uom": "min"
+        },
+        {
+          "size": 30720.0,
+          "uom": "mb"
+        }
+      ],
+      "tariffAdvantages": [
+        {
+          "frontName": "WhatsApp и еще 2 безлимитных мессенджера",
+          "image": "https://api.tele2.ru/api/media/asset?mediaId=m2690019"
+        },
+        {
+          "frontName": "ВКонтакте и еще 3 безлимитных соцсети",
+          "image": "https://api.tele2.ru/api/media/asset?mediaId=m2870006"
+        },
+        {
+          "frontName": "Пакет минут доступен в Финляндии и Черногории",
+          "image": "https://api.tele2.ru/api/media/asset?mediaId=m2870004"
+        }
+      ]
+    },
+    "available": [
+      {
+        "id": "prodUnlimMsk_front",
+        "billingId": 16115,
+        "slug": "my-unlim",
+        "name": "Безлимит",
+        "slogan": null,
+        "text": "безлимит на Tele2 России",
+        "abonentFee": {
+          "amount": 750.00,
+          "currency": "RUB"
+        },
+        "abonentFeePeriod": "month",
+        "changePrice": {
+          "amount": 150.00,
+          "currency": "RUB"
+        },
+        "packed": true,
+        "hit": false,
+        "hitInAuthorized": false,
+        "tuningAvailable": false,
+        "expendedInInternationalRoaming": false,
+        "tariffType": "NONE",
+        "cardType": "undefinedCard",
+        "url": "/tariff/my-unlim",
+        "tariffsPackages": [
+          {
+            "size": 1.024E9,
+            "uom": "mb"
+          },
+          {
+            "size": 500.0,
+            "description": "на остальные номера России",
+            "uom": "min"
+          },
+          {
+            "size": 50.0,
+            "uom": "pcs"
+          }
+        ]
+      },
+      {
+        "id": "prodPremiumMSK_042020",
+        "billingId": 17485,
+        "slug": "premium",
+        "name": "Премиум",
+        "slogan": "В пакет включены исходящие звонки из Финляндии и Черногории в Россию",
+        "text": "безлимит на Tele2 России",
+        "abonentFee": {
+          "amount": 1800.00,
+          "currency": "RUB"
+        },
+        "abonentFeePeriod": "month",
+        "changePrice": null,
+        "packed": true,
+        "hit": false,
+        "hitInAuthorized": false,
+        "tuningAvailable": false,
+        "expendedInInternationalRoaming": true,
+        "tariffType": "PREMIUM",
+        "cardType": "beautifullCard",
+        "url": "/tariff/premium",
+        "tariffsPackages": [
+          {
+            "size": 1.024E9,
+            "uom": "mb"
+          },
+          {
+            "size": 2000.0,
+            "description": "на остальные номера России",
+            "uom": "min"
+          },
+          {
+            "size": 500.0,
+            "uom": "pcs"
+          }
+        ],
+        "tariffAdvantages": [
+          {
+            "frontName": "Безлимитный интернет за границей без доплат",
+            "image": "https://api.tele2.ru/api/media/asset?mediaId=m2690015"
+          },
+          {
+            "frontName": "Пакет минут доступен в Финляндии и Черногории",
+            "image": "https://api.tele2.ru/api/media/asset?mediaId=m2870004"
+          },
+          {
+            "frontName": "Обслуживание по выделенной линии",
+            "image": "https://api.tele2.ru/api/media/asset?mediaId=m2690017"
+          }
+        ]
+      },
+      {
+        "id": "prodClassicMSK_122019",
+        "billingId": 16210,
+        "slug": "classic",
+        "name": "Классический",
+        "slogan": "Безлимит на Tele2 домашнего региона",
+        "abonentFee": {
+          "amount": 0.00,
+          "currency": "RUB"
+        },
+        "abonentFeePeriod": "day",
+        "changePrice": {
+          "amount": 150.00,
+          "currency": "RUB"
+        },
+        "packed": false,
+        "hit": false,
+        "hitInAuthorized": false,
+        "tuningAvailable": true,
+        "expendedInInternationalRoaming": false,
+        "tariffType": "TARIFF_SMART_SELF_CARE2",
+        "cardType": "undefinedCard",
+        "url": "/tariff/classic",
+        "tariffsPackages": []
+      },
+      {
+        "id": "prod600486",
+        "billingId": 493,
+        "slug": "idu",
+        "name": "Интернет для устройств",
+        "slogan": "Тариф для модемов и планшетов",
+        "abonentFee": {
+          "amount": 0.00,
+          "currency": "RUB"
+        },
+        "abonentFeePeriod": "month",
+        "changePrice": {
+          "amount": 150.00,
+          "currency": "RUB"
+        },
+        "packed": false,
+        "hit": false,
+        "hitInAuthorized": false,
+        "tuningAvailable": false,
+        "expendedInInternationalRoaming": false,
+        "tariffType": "NONE",
+        "cardType": "undefinedCard",
+        "url": "/tariff/idu",
+        "tariffsPackages": []
+      }
+    ]
+  }
+}

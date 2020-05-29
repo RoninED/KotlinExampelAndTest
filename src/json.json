@@ -1,0 +1,57 @@
+{
+  "meta": {
+    "status": "OK",
+    "message": null
+  },
+  "data": [
+    {
+      "msisdn": "79998992908",
+      "status": "ACTIVATED",
+      "branchName": "Москва",
+      "contractNum": "33286871",
+      "signDate": "2020-05-22"
+    },
+    {
+      "msisdn": "79185573494",
+      "status": "ACTIVATED",
+      "branchName": "Ростов-на-Дону",
+      "contractNum": "49844968",
+      "signDate": "2019-11-29"
+    },
+    {
+      "msisdn": "79011873567",
+      "status": "no_active_number",
+      "branchName": "Москва",
+      "contractNum": "36572546",
+      "signDate": "2020-05-22"
+    },
+    {
+      "msisdn": "79011873568",
+      "status": "no_active_number",
+      "branchName": "Москва",
+      "contractNum": "36572543",
+      "signDate": "2020-05-22"
+    },
+    {
+      "msisdn": "79011873569",
+      "status": "ACTIVATED",
+      "branchName": "Москва",
+      "contractNum": "36572547",
+      "signDate": "2020-05-22"
+    },
+    {
+      "msisdn": "79011873570",
+      "status": "ACTIVATED",
+      "branchName": "Москва",
+      "contractNum": "36572545",
+      "signDate": "2020-05-22"
+    },
+    {
+      "msisdn": "79011873571",
+      "status": "ACTIVATED",
+      "branchName": "Москва",
+      "contractNum": "36572544",
+      "signDate": "2020-05-22"
+    }
+  ]
+}
