@@ -1,0 +1,1849 @@
+{
+  "meta": {
+    "status": "OK",
+    "message": null
+  },
+  "data": [
+    {
+      "billingId": "13904",
+      "name": "Лот ГБ",
+      "type": null,
+      "status": "CONNECTED",
+      "disconnectionAvailabilityStatus": {
+        "canDisconnect": false,
+        "disconnectOrdered": false
+      },
+      "connectionAvailabilityStatus": {},
+      "abonentFee": {
+        "amount": 0,
+        "period": null
+      },
+      "changePrice": 0.00,
+      "slogan": "Купленный на Бирже Tele2 пакет гигабайт. Для отключения воспользуйтесь разделом \"Мои лоты\" на бирже",
+      "url": "",
+      "categoryId": null,
+      "category": "Прочее",
+      "migrated": false,
+      "descriptionMigrated": null,
+      "mobileDescription": null,
+      "popupInfoTextDisconnection": null,
+      "popupInfoTextConnection": null,
+      "abonentFeeAtConnection": false,
+      "redirectLink": null,
+      "showConnectButton": true,
+      "showDisconnectButton": true,
+      "currentPeriodAbonentFee": null,
+      "abonentFeeChargeType": "OTHER_CHARGE_METHOD",
+      "slug": null
+    },
+    {
+      "billingId": "13672",
+      "name": "20 SMS по России",
+      "type": null,
+      "status": "CONNECTED",
+      "disconnectionAvailabilityStatus": {
+        "canDisconnect": true,
+        "disconnectOrdered": false
+      },
+      "connectionAvailabilityStatus": {},
+      "abonentFee": {
+        "amount": 20.00,
+        "period": "month"
+      },
+      "changePrice": 0.00,
+      "slogan": "Пакет SMS для вашего тарифа",
+      "url": "https://msk.tele2.ru/option/add-20-sms",
+      "categoryId": null,
+      "category": "Прочее",
+      "migrated": false,
+      "descriptionMigrated": null,
+      "mobileDescription": null,
+      "popupInfoTextDisconnection": null,
+      "popupInfoTextConnection": null,
+      "abonentFeeAtConnection": true,
+      "redirectLink": null,
+      "showConnectButton": true,
+      "showDisconnectButton": true,
+      "currentPeriodAbonentFee": null,
+      "abonentFeeChargeType": "ACTIVATE_DATE_CUSTOM_PERIOD_PREPAID",
+      "slug": "add-20-sms"
+    },
+    {
+      "billingId": "12176",
+      "name": "100 SMS по России",
+      "type": null,
+      "status": "CONNECTED",
+      "disconnectionAvailabilityStatus": {
+        "canDisconnect": true,
+        "disconnectOrdered": false
+      },
+      "connectionAvailabilityStatus": {},
+      "abonentFee": {
+        "amount": 70.00,
+        "period": "month"
+      },
+      "changePrice": 0.00,
+      "slogan": "Пакет SMS для вашего тарифа",
+      "url": "https://msk.tele2.ru/option/add-100-sms",
+      "categoryId": null,
+      "category": "Прочее",
+      "migrated": false,
+      "descriptionMigrated": null,
+      "mobileDescription": null,
+      "popupInfoTextDisconnection": null,
+      "popupInfoTextConnection": null,
+      "abonentFeeAtConnection": true,
+      "redirectLink": null,
+      "showConnectButton": true,
+      "showDisconnectButton": true,
+      "currentPeriodAbonentFee": null,
+      "abonentFeeChargeType": "ACTIVATE_DATE_CUSTOM_PERIOD_PREPAID",
+      "slug": "add-100-sms"
+    },
+    {
+      "billingId": "10124",
+      "name": "Безлимит на Яндекс.Карты и Яндекс.Навигатор",
+      "type": null,
+      "status": "CONNECTED",
+      "disconnectionAvailabilityStatus": {
+        "canDisconnect": true,
+        "disconnectOrdered": false
+      },
+      "connectionAvailabilityStatus": {},
+      "abonentFee": {
+        "amount": 90.00,
+        "period": "month"
+      },
+      "changePrice": 0.00,
+      "slogan": "Безлимитный доступ к картам и навигатору",
+      "url": "https://msk.tele2.ru/option/unlimited-yandex-maps",
+      "categoryId": "catYanao40006",
+      "category": "Интернет",
+      "categoryPriority": 0,
+      "migrated": false,
+      "descriptionMigrated": null,
+      "mobileDescription": null,
+      "popupInfoTextDisconnection": null,
+      "popupInfoTextConnection": null,
+      "abonentFeeAtConnection": true,
+      "redirectLink": null,
+      "showConnectButton": true,
+      "showDisconnectButton": true,
+      "currentPeriodAbonentFee": null,
+      "abonentFeeChargeType": "ACTIVATE_DATE_CUSTOM_PERIOD_PREPAID",
+      "slug": "unlimited-yandex-maps"
+    },
+    {
+      "billingId": "9901",
+      "name": "Безлимит на ВКонтакте",
+      "type": null,
+      "status": "CONNECTED",
+      "disconnectionAvailabilityStatus": {
+        "canDisconnect": true,
+        "disconnectOrdered": false
+      },
+      "connectionAvailabilityStatus": {},
+      "abonentFee": {
+        "amount": 20.00,
+        "period": "month"
+      },
+      "changePrice": 0.00,
+      "slogan": "Безлимитный трафик на ВКонтакте",
+      "url": "https://msk.tele2.ru/option/unlimited-vk",
+      "categoryId": "catMskSocseti",
+      "category": "Соцсети",
+      "categoryPriority": 0,
+      "migrated": false,
+      "descriptionMigrated": null,
+      "mobileDescription": null,
+      "popupInfoTextDisconnection": null,
+      "popupInfoTextConnection": null,
+      "abonentFeeAtConnection": true,
+      "redirectLink": null,
+      "showConnectButton": true,
+      "showDisconnectButton": true,
+      "currentPeriodAbonentFee": null,
+      "abonentFeeChargeType": "ACTIVATE_DATE_CUSTOM_PERIOD_PREPAID",
+      "slug": "unlimited-vk"
+    },
+    {
+      "billingId": "9852",
+      "name": "Безлимит на Facebook",
+      "type": null,
+      "status": "CONNECTED",
+      "disconnectionAvailabilityStatus": {
+        "canDisconnect": true,
+        "disconnectOrdered": false
+      },
+      "connectionAvailabilityStatus": {},
+      "abonentFee": {
+        "amount": 20.00,
+        "period": "month"
+      },
+      "changePrice": 0.00,
+      "slogan": "Безлимитный трафик на Facebook",
+      "url": "https://msk.tele2.ru/option/unlimited-facebook",
+      "categoryId": "catMskSocseti",
+      "category": "Соцсети",
+      "categoryPriority": 0,
+      "migrated": false,
+      "descriptionMigrated": null,
+      "mobileDescription": null,
+      "popupInfoTextDisconnection": null,
+      "popupInfoTextConnection": null,
+      "abonentFeeAtConnection": true,
+      "redirectLink": null,
+      "showConnectButton": true,
+      "showDisconnectButton": true,
+      "currentPeriodAbonentFee": null,
+      "abonentFeeChargeType": "ACTIVATE_DATE_CUSTOM_PERIOD_PREPAID",
+      "slug": "unlimited-facebook"
+    },
+    {
+      "billingId": "1193",
+      "name": "Добавить трафик",
+      "type": null,
+      "status": "CONNECTED",
+      "disconnectionAvailabilityStatus": {
+        "canDisconnect": true,
+        "disconnectOrdered": false
+      },
+      "connectionAvailabilityStatus": {},
+      "abonentFee": {
+        "amount": 0,
+        "period": null
+      },
+      "changePrice": 120.00,
+      "slogan": "Дополнительный 1 ГБ на 30 дней",
+      "url": "https://msk.tele2.ru/option/addtraffic-1gb",
+      "categoryId": "catMsk40006",
+      "category": "Интернет",
+      "categoryPriority": 0,
+      "migrated": false,
+      "descriptionMigrated": null,
+      "mobileDescription": null,
+      "popupInfoTextDisconnection": null,
+      "popupInfoTextConnection": null,
+      "abonentFeeAtConnection": false,
+      "redirectLink": null,
+      "showConnectButton": true,
+      "showDisconnectButton": true,
+      "currentPeriodAbonentFee": null,
+      "abonentFeeChargeType": "OTHER_CHARGE_METHOD",
+      "slug": "addtraffic-1gb"
+    },
+    {
+      "billingId": "629",
+      "name": "Запрет уведомлений услуги Информер",
+      "type": null,
+      "status": "CONNECTED",
+      "disconnectionAvailabilityStatus": {
+        "canDisconnect": true,
+        "disconnectOrdered": false
+      },
+      "connectionAvailabilityStatus": {},
+      "abonentFee": {
+        "amount": 0,
+        "period": null
+      },
+      "changePrice": 0.00,
+      "slogan": "",
+      "url": "",
+      "categoryId": null,
+      "category": "Прочее",
+      "migrated": false,
+      "descriptionMigrated": null,
+      "mobileDescription": null,
+      "popupInfoTextDisconnection": null,
+      "popupInfoTextConnection": null,
+      "abonentFeeAtConnection": false,
+      "redirectLink": null,
+      "showConnectButton": true,
+      "showDisconnectButton": true,
+      "currentPeriodAbonentFee": null,
+      "abonentFeeChargeType": "OTHER_CHARGE_METHOD",
+      "slug": null
+    },
+    {
+      "billingId": "214",
+      "name": "Гудок",
+      "type": null,
+      "status": "CONNECTED",
+      "disconnectionAvailabilityStatus": {
+        "canDisconnect": true,
+        "disconnectOrdered": false
+      },
+      "connectionAvailabilityStatus": {},
+      "abonentFee": {
+        "amount": 3.00,
+        "period": "day"
+      },
+      "changePrice": 0.00,
+      "slogan": "Замените обычные длинные гудки на любимые мелодии",
+      "url": "https://msk.tele2.ru/option/gudok",
+      "categoryId": null,
+      "category": "Прочее",
+      "migrated": false,
+      "descriptionMigrated": null,
+      "mobileDescription": null,
+      "popupInfoTextDisconnection": null,
+      "popupInfoTextConnection": null,
+      "abonentFeeAtConnection": false,
+      "redirectLink": null,
+      "showConnectButton": true,
+      "showDisconnectButton": true,
+      "currentPeriodAbonentFee": null,
+      "abonentFeeChargeType": "OTHER_CHARGE_METHOD",
+      "slug": "gudok"
+    },
+    {
+      "billingId": "1140",
+      "name": "Запрет денежных переводов",
+      "type": null,
+      "status": "CONNECTED",
+      "disconnectionAvailabilityStatus": {
+        "canDisconnect": false,
+        "disconnectOrdered": false
+      },
+      "connectionAvailabilityStatus": {},
+      "abonentFee": {
+        "amount": 0,
+        "period": null
+      },
+      "changePrice": 0.00,
+      "slogan": "Запрет перевода денежных средств с мобильного счета за оплату различных товаров и услуг со счета Tele2. Распространяется на Tele2 кошелек, Виртуальную карту Tele2 MasterCard и Денежные переводы.  Не распространяется на \"Запрет мобильного перевода\"",
+      "url": "https://market.tele2.ru/",
+      "categoryId": null,
+      "category": "Прочее",
+      "migrated": false,
+      "descriptionMigrated": null,
+      "mobileDescription": null,
+      "popupInfoTextDisconnection": null,
+      "popupInfoTextConnection": null,
+      "abonentFeeAtConnection": false,
+      "redirectLink": null,
+      "showConnectButton": true,
+      "showDisconnectButton": true,
+      "currentPeriodAbonentFee": null,
+      "abonentFeeChargeType": "OTHER_CHARGE_METHOD",
+      "slug": null
+    },
+    {
+      "billingId": "851",
+      "name": "Мелодия для себя",
+      "type": null,
+      "status": "AVAILABLE",
+      "disconnectionAvailabilityStatus": {
+        "disconnectOrdered": false
+      },
+      "connectionAvailabilityStatus": {
+        "canConnect": true
+      },
+      "abonentFee": {
+        "amount": 3.00,
+        "period": "day"
+      },
+      "changePrice": 0.00,
+      "slogan": "Установите любимую музыку вместо гудков при всех исходящих вызовах.",
+      "url": "http://gudok.tele2.ru/info/melodyforme",
+      "categoryId": null,
+      "category": "Прочее",
+      "migrated": false,
+      "descriptionMigrated": null,
+      "mobileDescription": null,
+      "popupInfoTextDisconnection": null,
+      "popupInfoTextConnection": null,
+      "abonentFeeAtConnection": false,
+      "redirectLink": null,
+      "showConnectButton": true,
+      "showDisconnectButton": true,
+      "currentPeriodAbonentFee": null,
+      "abonentFeeChargeType": "OTHER_CHARGE_METHOD",
+      "slug": null
+    },
+    {
+      "billingId": "2618",
+      "name": "Разговоры без границ",
+      "type": null,
+      "status": "AVAILABLE",
+      "disconnectionAvailabilityStatus": {
+        "disconnectOrdered": false
+      },
+      "connectionAvailabilityStatus": {
+        "canConnect": true
+      },
+      "abonentFee": {
+        "amount": 5.00,
+        "period": "day"
+      },
+      "changePrice": 5.00,
+      "slogan": "Принимайте столько звонков, сколько нужно",
+      "url": "https://msk.tele2.ru/option/talk-without-borders",
+      "categoryId": "catYarTravelDiscounts",
+      "category": "Скидки в поездках",
+      "categoryPriority": 0,
+      "migrated": false,
+      "descriptionMigrated": null,
+      "mobileDescription": null,
+      "popupInfoTextDisconnection": null,
+      "popupInfoTextConnection": null,
+      "abonentFeeAtConnection": false,
+      "redirectLink": null,
+      "showConnectButton": true,
+      "showDisconnectButton": true,
+      "currentPeriodAbonentFee": null,
+      "abonentFeeChargeType": "OTHER_CHARGE_METHOD",
+      "slug": "talk-without-borders"
+    },
+    {
+      "billingId": "2619",
+      "name": "Интернет за рубежом",
+      "type": null,
+      "status": "AVAILABLE",
+      "disconnectionAvailabilityStatus": {
+        "disconnectOrdered": false
+      },
+      "connectionAvailabilityStatus": {
+        "canConnect": true
+      },
+      "abonentFee": {
+        "amount": 100.00,
+        "period": "day"
+      },
+      "changePrice": 100.00,
+      "slogan": "В странах СНГ, Европы, Азии и Африки",
+      "url": "https://msk.tele2.ru/option/internet-cis-europe",
+      "categoryId": "catYarTravelDiscounts",
+      "category": "Скидки в поездках",
+      "categoryPriority": 0,
+      "migrated": false,
+      "descriptionMigrated": null,
+      "mobileDescription": null,
+      "popupInfoTextDisconnection": null,
+      "popupInfoTextConnection": null,
+      "abonentFeeAtConnection": false,
+      "redirectLink": null,
+      "showConnectButton": true,
+      "showDisconnectButton": true,
+      "currentPeriodAbonentFee": null,
+      "abonentFeeChargeType": "OTHER_CHARGE_METHOD",
+      "slug": "internet-cis-europe"
+    },
+    {
+      "billingId": "2687",
+      "name": "Интернет за рубежом",
+      "type": null,
+      "status": "AVAILABLE",
+      "disconnectionAvailabilityStatus": {
+        "disconnectOrdered": false
+      },
+      "connectionAvailabilityStatus": {
+        "canConnect": true
+      },
+      "abonentFee": {
+        "amount": 300.00,
+        "period": "day"
+      },
+      "changePrice": 300.00,
+      "slogan": "В остальных странах",
+      "url": "https://msk.tele2.ru/option/internet-abroad",
+      "categoryId": "catYarTravelDiscounts",
+      "category": "Скидки в поездках",
+      "categoryPriority": 0,
+      "migrated": false,
+      "descriptionMigrated": null,
+      "mobileDescription": null,
+      "popupInfoTextDisconnection": null,
+      "popupInfoTextConnection": null,
+      "abonentFeeAtConnection": false,
+      "redirectLink": null,
+      "showConnectButton": true,
+      "showDisconnectButton": true,
+      "currentPeriodAbonentFee": null,
+      "abonentFeeChargeType": "OTHER_CHARGE_METHOD",
+      "slug": "internet-abroad"
+    },
+    {
+      "billingId": "2984",
+      "name": "WiFi-звонки",
+      "type": null,
+      "status": "AVAILABLE",
+      "disconnectionAvailabilityStatus": {
+        "disconnectOrdered": false
+      },
+      "connectionAvailabilityStatus": {
+        "canConnect": false
+      },
+      "abonentFee": {
+        "amount": 0,
+        "period": null
+      },
+      "changePrice": 0.00,
+      "slogan": "Отправлять сообщения, звонить на любые номера и принимать звонки там, где нет мобильного сигнала, но есть сигнал Wi-Fi",
+      "url": "https://msk.tele2.ru/option/wifi-calling",
+      "categoryId": "catMsk80001",
+      "category": "Звонки и сообщения",
+      "categoryPriority": 0,
+      "migrated": false,
+      "descriptionMigrated": null,
+      "mobileDescription": null,
+      "popupInfoTextDisconnection": null,
+      "popupInfoTextConnection": null,
+      "abonentFeeAtConnection": false,
+      "redirectLink": null,
+      "showConnectButton": true,
+      "showDisconnectButton": true,
+      "currentPeriodAbonentFee": null,
+      "abonentFeeChargeType": "OTHER_CHARGE_METHOD",
+      "slug": "wifi-calling"
+    },
+    {
+      "billingId": "3007",
+      "name": "Добавить трафик",
+      "type": null,
+      "status": "AVAILABLE",
+      "disconnectionAvailabilityStatus": {
+        "disconnectOrdered": false
+      },
+      "connectionAvailabilityStatus": {
+        "canConnect": false,
+        "conflictedServices": [
+          {
+            "billingId": "1193",
+            "name": "Добавить трафик",
+            "type": null,
+            "status": "CONNECTED",
+            "disconnectionAvailabilityStatus": {
+              "canDisconnect": true,
+              "disconnectOrdered": false
+            },
+            "connectionAvailabilityStatus": {},
+            "abonentFee": {
+              "amount": null,
+              "period": null
+            },
+            "changePrice": 0,
+            "slogan": "Дополнительный 1 ГБ на 30 дней",
+            "url": "https://msk.tele2.ru/option/addtraffic-1gb",
+            "categoryId": "catMsk40006",
+            "category": "Интернет",
+            "categoryPriority": 0,
+            "migrated": false,
+            "descriptionMigrated": null,
+            "mobileDescription": null,
+            "popupInfoTextDisconnection": null,
+            "popupInfoTextConnection": null,
+            "abonentFeeAtConnection": false,
+            "redirectLink": null,
+            "showConnectButton": true,
+            "showDisconnectButton": true,
+            "currentPeriodAbonentFee": null,
+            "abonentFeeChargeType": null,
+            "slug": "addtraffic-1gb"
+          }
+        ]
+      },
+      "abonentFee": {
+        "amount": 0,
+        "period": null
+      },
+      "changePrice": 200.00,
+      "slogan": "Дополнительные 3 ГБ на 30 дней",
+      "url": "https://msk.tele2.ru/option/addtraffic-3gb",
+      "categoryId": "catMsk40006",
+      "category": "Интернет",
+      "categoryPriority": 0,
+      "migrated": false,
+      "descriptionMigrated": null,
+      "mobileDescription": null,
+      "popupInfoTextDisconnection": null,
+      "popupInfoTextConnection": null,
+      "abonentFeeAtConnection": false,
+      "redirectLink": null,
+      "showConnectButton": true,
+      "showDisconnectButton": true,
+      "currentPeriodAbonentFee": null,
+      "abonentFeeChargeType": "OTHER_CHARGE_METHOD",
+      "slug": "addtraffic-3gb"
+    },
+    {
+      "billingId": "3255",
+      "name": "Запрет обслуживания по доверенности",
+      "type": null,
+      "status": "AVAILABLE",
+      "disconnectionAvailabilityStatus": {
+        "disconnectOrdered": false
+      },
+      "connectionAvailabilityStatus": {
+        "canConnect": false
+      },
+      "abonentFee": {
+        "amount": 0,
+        "period": null
+      },
+      "changePrice": 0.00,
+      "slogan": "Управлять номером сможете только вы",
+      "url": "https://msk.tele2.ru/option/prohibition-of-proxy-service-old",
+      "categoryId": "catMsk60005",
+      "category": "Действия с номером",
+      "categoryPriority": 0,
+      "migrated": false,
+      "descriptionMigrated": null,
+      "mobileDescription": null,
+      "popupInfoTextDisconnection": null,
+      "popupInfoTextConnection": null,
+      "abonentFeeAtConnection": false,
+      "redirectLink": null,
+      "showConnectButton": true,
+      "showDisconnectButton": true,
+      "currentPeriodAbonentFee": null,
+      "abonentFeeChargeType": "OTHER_CHARGE_METHOD",
+      "slug": "prohibition-of-proxy-service-old"
+    },
+    {
+      "billingId": "3491",
+      "name": "Кто звонил",
+      "type": null,
+      "status": "AVAILABLE",
+      "disconnectionAvailabilityStatus": {
+        "disconnectOrdered": false
+      },
+      "connectionAvailabilityStatus": {
+        "canConnect": true
+      },
+      "abonentFee": {
+        "amount": 0.50,
+        "period": "day"
+      },
+      "changePrice": 0.00,
+      "slogan": "Сообщит о пропущенных вызовах",
+      "url": "https://msk.tele2.ru/option/who-called",
+      "categoryId": "catMsk60002",
+      "category": "Управление звонками",
+      "categoryPriority": 0,
+      "migrated": false,
+      "descriptionMigrated": null,
+      "mobileDescription": null,
+      "popupInfoTextDisconnection": null,
+      "popupInfoTextConnection": null,
+      "abonentFeeAtConnection": false,
+      "redirectLink": null,
+      "showConnectButton": true,
+      "showDisconnectButton": true,
+      "currentPeriodAbonentFee": null,
+      "abonentFeeChargeType": "OTHER_CHARGE_METHOD",
+      "slug": "who-called"
+    },
+    {
+      "billingId": "4949",
+      "name": "Легкий интернет на полуострове",
+      "type": null,
+      "status": "AVAILABLE",
+      "disconnectionAvailabilityStatus": {
+        "disconnectOrdered": false
+      },
+      "connectionAvailabilityStatus": {
+        "canConnect": true
+      },
+      "abonentFee": {
+        "amount": 6.00,
+        "period": "day"
+      },
+      "changePrice": 36.00,
+      "slogan": "2,5 рубля за 1 МБ интернет-трафика в Крыму",
+      "url": "https://msk.tele2.ru/option/crimea-like-at-home",
+      "categoryId": "catYar40006",
+      "category": "Интернет",
+      "categoryPriority": 0,
+      "migrated": false,
+      "descriptionMigrated": null,
+      "mobileDescription": null,
+      "popupInfoTextDisconnection": null,
+      "popupInfoTextConnection": null,
+      "abonentFeeAtConnection": false,
+      "redirectLink": null,
+      "showConnectButton": true,
+      "showDisconnectButton": true,
+      "currentPeriodAbonentFee": null,
+      "abonentFeeChargeType": "OTHER_CHARGE_METHOD",
+      "slug": "crimea-like-at-home"
+    },
+    {
+      "billingId": "10042",
+      "name": "Живой баланс",
+      "type": null,
+      "status": "AVAILABLE",
+      "disconnectionAvailabilityStatus": {
+        "disconnectOrdered": false
+      },
+      "connectionAvailabilityStatus": {
+        "canConnect": true
+      },
+      "abonentFee": {
+        "amount": 2.00,
+        "period": "day"
+      },
+      "changePrice": 0.00,
+      "slogan": "Баланс счета на экране мобильного телефона в режиме реального времени",
+      "url": "https://msk.tele2.ru/option/live-balance",
+      "categoryId": "catYanao60005",
+      "category": "Действия с номером",
+      "categoryPriority": 0,
+      "migrated": false,
+      "descriptionMigrated": null,
+      "mobileDescription": null,
+      "popupInfoTextDisconnection": null,
+      "popupInfoTextConnection": null,
+      "abonentFeeAtConnection": false,
+      "redirectLink": null,
+      "showConnectButton": true,
+      "showDisconnectButton": true,
+      "currentPeriodAbonentFee": null,
+      "abonentFeeChargeType": "OTHER_CHARGE_METHOD",
+      "slug": "live-balance"
+    },
+    {
+      "billingId": "10130",
+      "name": "Безлимит на Одноклассники",
+      "type": null,
+      "status": "AVAILABLE",
+      "disconnectionAvailabilityStatus": {
+        "disconnectOrdered": false
+      },
+      "connectionAvailabilityStatus": {
+        "canConnect": true
+      },
+      "abonentFee": {
+        "amount": 20.00,
+        "period": "month"
+      },
+      "changePrice": 0.00,
+      "slogan": "Безлимитный трафик на Одноклассники",
+      "url": "https://msk.tele2.ru/option/unlimited-ok",
+      "categoryId": "catMskSocseti",
+      "category": "Соцсети",
+      "categoryPriority": 0,
+      "migrated": false,
+      "descriptionMigrated": null,
+      "mobileDescription": null,
+      "popupInfoTextDisconnection": null,
+      "popupInfoTextConnection": null,
+      "abonentFeeAtConnection": true,
+      "redirectLink": null,
+      "showConnectButton": true,
+      "showDisconnectButton": true,
+      "currentPeriodAbonentFee": null,
+      "abonentFeeChargeType": "ACTIVATE_DATE_CUSTOM_PERIOD_PREPAID",
+      "slug": "unlimited-ok"
+    },
+    {
+      "billingId": "10201",
+      "name": "Безлимит на Звук",
+      "type": null,
+      "status": "AVAILABLE",
+      "disconnectionAvailabilityStatus": {
+        "disconnectOrdered": false
+      },
+      "connectionAvailabilityStatus": {
+        "canConnect": true
+      },
+      "abonentFee": {
+        "amount": 99.00,
+        "period": "month"
+      },
+      "changePrice": 0.00,
+      "slogan": "Слушай музыку бесплатно",
+      "url": "https://msk.tele2.ru/option/unlimited-zvuk",
+      "categoryId": null,
+      "category": "Прочее",
+      "migrated": false,
+      "descriptionMigrated": null,
+      "mobileDescription": null,
+      "popupInfoTextDisconnection": null,
+      "popupInfoTextConnection": null,
+      "abonentFeeAtConnection": true,
+      "redirectLink": null,
+      "showConnectButton": true,
+      "showDisconnectButton": true,
+      "currentPeriodAbonentFee": null,
+      "abonentFeeChargeType": "ACTIVATE_DATE_CUSTOM_PERIOD_PREPAID",
+      "slug": "unlimited-zvuk"
+    },
+    {
+      "billingId": "10202",
+      "name": "Безлимит на просмотр фильмов в Tele2 TV",
+      "type": null,
+      "status": "AVAILABLE",
+      "disconnectionAvailabilityStatus": {
+        "disconnectOrdered": false
+      },
+      "connectionAvailabilityStatus": {
+        "canConnect": true
+      },
+      "abonentFee": {
+        "amount": 99.00,
+        "period": "month"
+      },
+      "changePrice": 0.00,
+      "url": "https://msk.tele2.ru/option/unlimited-films-tele2-tv",
+      "categoryId": null,
+      "category": "Прочее",
+      "migrated": false,
+      "descriptionMigrated": null,
+      "mobileDescription": null,
+      "popupInfoTextDisconnection": null,
+      "popupInfoTextConnection": null,
+      "abonentFeeAtConnection": true,
+      "redirectLink": null,
+      "showConnectButton": true,
+      "showDisconnectButton": true,
+      "currentPeriodAbonentFee": null,
+      "abonentFeeChargeType": "ACTIVATE_DATE_CUSTOM_PERIOD_PREPAID",
+      "slug": "unlimited-films-tele2-tv"
+    },
+    {
+      "billingId": "11028",
+      "name": "Безлимит на просмотр ТВ-программ в Tele2 TV",
+      "type": null,
+      "status": "AVAILABLE",
+      "disconnectionAvailabilityStatus": {
+        "disconnectOrdered": false
+      },
+      "connectionAvailabilityStatus": {
+        "canConnect": true
+      },
+      "abonentFee": {
+        "amount": 99.00,
+        "period": "month"
+      },
+      "changePrice": 0.00,
+      "url": "https://msk.tele2.ru/option/unlimited-channels-tele2-tv",
+      "categoryId": null,
+      "category": "Прочее",
+      "migrated": false,
+      "descriptionMigrated": null,
+      "mobileDescription": null,
+      "popupInfoTextDisconnection": null,
+      "popupInfoTextConnection": null,
+      "abonentFeeAtConnection": true,
+      "redirectLink": null,
+      "showConnectButton": true,
+      "showDisconnectButton": true,
+      "currentPeriodAbonentFee": null,
+      "abonentFeeChargeType": "ACTIVATE_DATE_CUSTOM_PERIOD_PREPAID",
+      "slug": "unlimited-channels-tele2-tv"
+    },
+    {
+      "billingId": "11057",
+      "name": "Простая география",
+      "type": null,
+      "status": "AVAILABLE",
+      "disconnectionAvailabilityStatus": {
+        "disconnectOrdered": false
+      },
+      "connectionAvailabilityStatus": {
+        "canConnect": true
+      },
+      "abonentFee": {
+        "amount": 2.00,
+        "period": "day"
+      },
+      "changePrice": 30.00,
+      "slogan": "Выгодные звонки за рубеж",
+      "url": "https://msk.tele2.ru/option/easy-geo",
+      "categoryId": "catMsk80001",
+      "category": "Звонки и сообщения",
+      "categoryPriority": 0,
+      "migrated": false,
+      "descriptionMigrated": null,
+      "mobileDescription": null,
+      "popupInfoTextDisconnection": null,
+      "popupInfoTextConnection": null,
+      "abonentFeeAtConnection": false,
+      "redirectLink": null,
+      "showConnectButton": true,
+      "showDisconnectButton": true,
+      "currentPeriodAbonentFee": null,
+      "abonentFeeChargeType": "OTHER_CHARGE_METHOD",
+      "slug": "easy-geo"
+    },
+    {
+      "billingId": "11178",
+      "name": "Безопасный режим",
+      "type": null,
+      "status": "AVAILABLE",
+      "disconnectionAvailabilityStatus": {
+        "disconnectOrdered": false
+      },
+      "connectionAvailabilityStatus": {
+        "canConnect": true
+      },
+      "abonentFee": {
+        "amount": 6.00,
+        "period": "day"
+      },
+      "changePrice": 0.00,
+      "slogan": "Комплексная защита телефона от WEB-подписок, вирусов в интернете, SMS-спама и SMS-рекламы",
+      "url": "https://msk.tele2.ru/option/safe-mode",
+      "categoryId": "catYanao60003",
+      "category": "Безопасность",
+      "categoryPriority": 0,
+      "migrated": false,
+      "descriptionMigrated": null,
+      "mobileDescription": null,
+      "popupInfoTextDisconnection": null,
+      "popupInfoTextConnection": null,
+      "abonentFeeAtConnection": false,
+      "redirectLink": null,
+      "showConnectButton": true,
+      "showDisconnectButton": true,
+      "currentPeriodAbonentFee": null,
+      "abonentFeeChargeType": "OTHER_CHARGE_METHOD",
+      "slug": "safe-mode"
+    },
+    {
+      "billingId": "11741",
+      "name": "Безлимитный интернет за границей",
+      "type": null,
+      "status": "AVAILABLE",
+      "disconnectionAvailabilityStatus": {
+        "disconnectOrdered": false
+      },
+      "connectionAvailabilityStatus": {
+        "canConnect": true
+      },
+      "abonentFee": {
+        "amount": 0.0,
+        "period": "day"
+      },
+      "changePrice": 0.00,
+      "slogan": "Больше никаких непредвиденных расходов – безлимитный интернет в поездках по миру. Бесплатно подключить услугу можно в любое время – честная абонентская плата 350 рублей списывается только в дни, когда пользуетесь интернетом за границей.",
+      "url": "https://msk.tele2.ru/option/internet-unlim-abroad",
+      "categoryId": "catMskTravelDiscounts",
+      "category": "Скидки в поездках",
+      "categoryPriority": 0,
+      "migrated": false,
+      "descriptionMigrated": null,
+      "mobileDescription": "На тарифе «Премиум» услуга бесплатна.\r\nНа тарифе «Мой онлайн+» доступен один день бесплатного пользования услугой в месяц.\n\nСтраны и Территории\n\nАнтарктида (Вилья-лас-Эстрельяс)\n\nЕвропа\n\nАвстрия, Акротири и Декелия, Албания, Андорра, Беларусь, Бельгия, Болгария, Босния и Герцеговина, Ватикан, Великобритания, Венгрия, Германия, Греция, Грузия, Дания, Джерси и Гернси, Ирландия, Исландия, Испания, Италия, Кипр, Латвия, Литва, Лихтенштейн, Люксембург, Майо́тта, Македония, Мальта, Молдова, Мэн остров, Нидерланды, Норвегия, Польша, Португалия, Реюньон, Румыния, Сан-Марино, Сербия, Словакия, Словения, Украина, Фарерские острова, Финляндия, Франция, Хорватия, Черногория, Чехия, Швейцария, Швеция, Эстония.\n\nАзия\n\nАзербайджан, Армения, Афганистан, Бахрейн, Восточный Тимор, Вьетнам, Гонконг, Израиль, Индонезия, Иран, Казахстан, Камбоджа, Катар, Киргизия, Китай, Кувейт, Лаос, Макао, Малайзия, Монголия, Мьянма, Непал, ОАЭ, Оман, Палестина, Саудовская Аравия, Сингапур, Таджикистан, Таиланд, Тайвань, Турция, Узбекистан, Филиппины, Шри-Ланка, Южная Корея, Япония. \n\nСеверная и Южная Америка\n\nАнгилья, Антигуа и Барбуда, Аргентина, Аруба, Барбадос, Бермудские острова, Бразилия, Британские Виргинские острова, Гайана, Гаити, Гватемала, Гондурас, Гренада, Гренландия, Доминика остров, Доминиканская Республика, Каймановы острова, Канада, Колумбия, Коста-Рика, Куба, Никарагуа, Мексика, Монтсеррат, Панама, Парагвай, Перу, Пуэрто-Рико, Сальвадор, Сент-Винсент и Гренадины, Сент-Китс и Невис острова, Сент-Люсия остров, США, Теркс и Кайкос острова, Уругвай, Чили, Эквадор, Ямайка.\n\nАфрика, Австралия и Океания\n\nАвстралия, Алжир, Габон, Гамбия, Гана, Демократическая Республика Конго, Египет, Замбия, Западная Сахара, Кот-д`Ивуар, Марокко, Мозамбик, Нигерия, Новая Зеландия, Судан, Сьерра-Леоне,, Танзания, Тунис, Уганда, Фиджи, Эсватини, ЮАР.\r\n",
+      "popupInfoTextDisconnection": null,
+      "popupInfoTextConnection": null,
+      "abonentFeeAtConnection": false,
+      "redirectLink": null,
+      "showConnectButton": true,
+      "showDisconnectButton": true,
+      "currentPeriodAbonentFee": null,
+      "abonentFeeChargeType": "OTHER_CHARGE_METHOD",
+      "slug": "internet-unlim-abroad"
+    },
+    {
+      "billingId": "11751",
+      "name": "На доверии",
+      "type": "trustCredit",
+      "status": "AVAILABLE",
+      "disconnectionAvailabilityStatus": {
+        "disconnectOrdered": false
+      },
+      "connectionAvailabilityStatus": {
+        "canConnect": true
+      },
+      "abonentFee": {
+        "amount": 0,
+        "period": null
+      },
+      "changePrice": 0.00,
+      "slogan": "Вам знакома ситуация, когда надо срочно позвонить, а средства на счете закончились? Подключите бесплатную услугу «На доверии» и всегда оставайтесь на связи, даже в поездках по миру.",
+      "url": "https://msk.tele2.ru/option/on-trust",
+      "categoryId": "catYar60004",
+      "category": "Возможности при нуле",
+      "categoryPriority": 0,
+      "migrated": false,
+      "descriptionMigrated": null,
+      "mobileDescription": null,
+      "popupInfoTextDisconnection": "В случае отключения услуги при отрицательном балансе, оказание услуг связи будет приостановлено",
+      "popupInfoTextConnection": null,
+      "abonentFeeAtConnection": false,
+      "redirectLink": null,
+      "showConnectButton": true,
+      "showDisconnectButton": true,
+      "currentPeriodAbonentFee": null,
+      "abonentFeeChargeType": "OTHER_CHARGE_METHOD",
+      "slug": "on-trust"
+    },
+    {
+      "billingId": "12129",
+      "name": "Безлимит на Twitch",
+      "type": null,
+      "status": "AVAILABLE",
+      "disconnectionAvailabilityStatus": {
+        "disconnectOrdered": false
+      },
+      "connectionAvailabilityStatus": {
+        "canConnect": true
+      },
+      "abonentFee": {
+        "amount": 99.00,
+        "period": "month"
+      },
+      "changePrice": 0.00,
+      "slogan": "Безлимитный трафик на Twitch",
+      "url": "https://msk.tele2.ru/option/unlimited-twitch",
+      "categoryId": "catYanao40006",
+      "category": "Интернет",
+      "categoryPriority": 0,
+      "migrated": false,
+      "descriptionMigrated": null,
+      "mobileDescription": null,
+      "popupInfoTextDisconnection": null,
+      "popupInfoTextConnection": null,
+      "abonentFeeAtConnection": true,
+      "redirectLink": null,
+      "showConnectButton": true,
+      "showDisconnectButton": true,
+      "currentPeriodAbonentFee": null,
+      "abonentFeeChargeType": "ACTIVATE_DATE_CUSTOM_PERIOD_PREPAID",
+      "slug": "unlimited-twitch"
+    },
+    {
+      "billingId": "12130",
+      "name": "Безлимит на Instagram",
+      "type": null,
+      "status": "AVAILABLE",
+      "disconnectionAvailabilityStatus": {
+        "disconnectOrdered": false
+      },
+      "connectionAvailabilityStatus": {
+        "canConnect": true
+      },
+      "abonentFee": {
+        "amount": 60.00,
+        "period": "month"
+      },
+      "changePrice": 0.00,
+      "slogan": "Безлимитный трафик на Instagram",
+      "url": "https://msk.tele2.ru/option/unlimited-instagram",
+      "categoryId": null,
+      "category": "Прочее",
+      "migrated": false,
+      "descriptionMigrated": null,
+      "mobileDescription": null,
+      "popupInfoTextDisconnection": null,
+      "popupInfoTextConnection": null,
+      "abonentFeeAtConnection": true,
+      "redirectLink": null,
+      "showConnectButton": true,
+      "showDisconnectButton": true,
+      "currentPeriodAbonentFee": null,
+      "abonentFeeChargeType": "ACTIVATE_DATE_CUSTOM_PERIOD_PREPAID",
+      "slug": "unlimited-instagram"
+    },
+    {
+      "billingId": "12178",
+      "name": "300 SMS по России",
+      "type": null,
+      "status": "AVAILABLE",
+      "disconnectionAvailabilityStatus": {
+        "disconnectOrdered": false
+      },
+      "connectionAvailabilityStatus": {
+        "canConnect": true
+      },
+      "abonentFee": {
+        "amount": 150.00,
+        "period": "month"
+      },
+      "changePrice": 0.00,
+      "slogan": "Пакет SMS для вашего тарифа",
+      "url": "https://msk.tele2.ru/option/add-300-sms",
+      "categoryId": null,
+      "category": "Прочее",
+      "migrated": false,
+      "descriptionMigrated": null,
+      "mobileDescription": null,
+      "popupInfoTextDisconnection": null,
+      "popupInfoTextConnection": null,
+      "abonentFeeAtConnection": true,
+      "redirectLink": null,
+      "showConnectButton": true,
+      "showDisconnectButton": true,
+      "currentPeriodAbonentFee": null,
+      "abonentFeeChargeType": "ACTIVATE_DATE_CUSTOM_PERIOD_PREPAID",
+      "slug": "add-300-sms"
+    },
+    {
+      "billingId": "12666",
+      "name": "Безлимит на просмотр сериалов Amediateka в Tele2 TV",
+      "type": null,
+      "status": "AVAILABLE",
+      "disconnectionAvailabilityStatus": {
+        "disconnectOrdered": false
+      },
+      "connectionAvailabilityStatus": {
+        "canConnect": true
+      },
+      "abonentFee": {
+        "amount": 149.00,
+        "period": "month"
+      },
+      "changePrice": 0.00,
+      "url": "https://msk.tele2.ru/option/amediateka",
+      "categoryId": null,
+      "category": "Прочее",
+      "migrated": false,
+      "descriptionMigrated": null,
+      "mobileDescription": null,
+      "popupInfoTextDisconnection": null,
+      "popupInfoTextConnection": null,
+      "abonentFeeAtConnection": true,
+      "redirectLink": null,
+      "showConnectButton": true,
+      "showDisconnectButton": true,
+      "currentPeriodAbonentFee": null,
+      "abonentFeeChargeType": "ACTIVATE_DATE_CUSTOM_PERIOD_PREPAID",
+      "slug": "amediateka"
+    },
+    {
+      "billingId": "13456",
+      "name": "Безлимит на Tinder, Mamba, Badoo, Фотострана, Теамо.ру, Love.mail.ru",
+      "type": null,
+      "status": "AVAILABLE",
+      "disconnectionAvailabilityStatus": {
+        "disconnectOrdered": false
+      },
+      "connectionAvailabilityStatus": {
+        "canConnect": true
+      },
+      "abonentFee": {
+        "amount": 60.00,
+        "period": "month"
+      },
+      "changePrice": 0.00,
+      "slogan": "Безлимитный доступ к сервисам знакомств",
+      "url": "https://msk.tele2.ru/option/unlimited-acquaintances",
+      "categoryId": null,
+      "category": "Прочее",
+      "migrated": false,
+      "descriptionMigrated": null,
+      "mobileDescription": null,
+      "popupInfoTextDisconnection": null,
+      "popupInfoTextConnection": null,
+      "abonentFeeAtConnection": true,
+      "redirectLink": null,
+      "showConnectButton": true,
+      "showDisconnectButton": true,
+      "currentPeriodAbonentFee": null,
+      "abonentFeeChargeType": "ACTIVATE_DATE_CUSTOM_PERIOD_PREPAID",
+      "slug": "unlimited-acquaintances"
+    },
+    {
+      "billingId": "13489",
+      "name": "Интернет на полуострове",
+      "type": null,
+      "status": "AVAILABLE",
+      "disconnectionAvailabilityStatus": {
+        "disconnectOrdered": false
+      },
+      "connectionAvailabilityStatus": {
+        "canConnect": true
+      },
+      "abonentFee": {
+        "amount": null,
+        "period": "day"
+      },
+      "changePrice": 0.00,
+      "slogan": "Больше никаких непредвиденных расходов – безлимитный интернет на полуострове. Бесплатно подключить услугу можно в любое время – честная абонентская плата 300 рублей списывается только в дни, когда пользуетесь интернетом на полуострове.",
+      "url": "https://msk.tele2.ru/option/crimea-unlim",
+      "categoryId": "catYanao40006",
+      "category": "Интернет",
+      "categoryPriority": 0,
+      "migrated": false,
+      "descriptionMigrated": null,
+      "mobileDescription": null,
+      "popupInfoTextDisconnection": null,
+      "popupInfoTextConnection": null,
+      "abonentFeeAtConnection": false,
+      "redirectLink": null,
+      "showConnectButton": true,
+      "showDisconnectButton": true,
+      "currentPeriodAbonentFee": null,
+      "abonentFeeChargeType": "OTHER_CHARGE_METHOD",
+      "slug": "crimea-unlim"
+    },
+    {
+      "billingId": "13673",
+      "name": "Еще",
+      "type": null,
+      "status": "AVAILABLE",
+      "disconnectionAvailabilityStatus": {
+        "disconnectOrdered": false
+      },
+      "connectionAvailabilityStatus": {
+        "canConnect": true
+      },
+      "abonentFee": {
+        "amount": null,
+        "period": null
+      },
+      "changePrice": 0.00,
+      "slogan": "Автоматическое продление доступа в интернет после исчерпания пакета по вашему тарифу",
+      "url": "https://msk.tele2.ru/option/more-500mb",
+      "categoryId": "catMsk40006",
+      "category": "Интернет",
+      "categoryPriority": 0,
+      "migrated": false,
+      "descriptionMigrated": null,
+      "mobileDescription": null,
+      "popupInfoTextDisconnection": null,
+      "popupInfoTextConnection": null,
+      "abonentFeeAtConnection": false,
+      "redirectLink": null,
+      "showConnectButton": true,
+      "showDisconnectButton": true,
+      "currentPeriodAbonentFee": null,
+      "abonentFeeChargeType": "OTHER_CHARGE_METHOD",
+      "slug": "more-500mb"
+    },
+    {
+      "billingId": "15632",
+      "name": "Второй номер",
+      "type": "virtual_number",
+      "status": "AVAILABLE",
+      "disconnectionAvailabilityStatus": {
+        "disconnectOrdered": false
+      },
+      "connectionAvailabilityStatus": {
+        "canConnect": true
+      },
+      "abonentFee": {
+        "amount": 50.00,
+        "period": "month"
+      },
+      "changePrice": 0.00,
+      "slogan": "Второй номер на вашей SIM-карте для входящих звонков и SMS",
+      "url": "https://msk.tele2.ru/option/second-number",
+      "categoryId": "catMsk60005",
+      "category": "Действия с номером",
+      "categoryPriority": 0,
+      "migrated": false,
+      "descriptionMigrated": null,
+      "mobileDescription": null,
+      "popupInfoTextDisconnection": null,
+      "popupInfoTextConnection": null,
+      "abonentFeeAtConnection": true,
+      "redirectLink": null,
+      "showConnectButton": true,
+      "showDisconnectButton": true,
+      "currentPeriodAbonentFee": null,
+      "abonentFeeChargeType": "ACTIVATE_DATE_CUSTOM_PERIOD_PREPAID",
+      "slug": "second-number"
+    },
+    {
+      "billingId": "16780",
+      "name": "Пакет минут расходуется на городские номера",
+      "type": null,
+      "status": "AVAILABLE",
+      "disconnectionAvailabilityStatus": {
+        "disconnectOrdered": false
+      },
+      "connectionAvailabilityStatus": {
+        "canConnect": true
+      },
+      "abonentFee": {
+        "amount": 60.00,
+        "period": "month"
+      },
+      "changePrice": 0.00,
+      "slogan": "Используйте пакет минут на тарифе для звонков на местные городские номера",
+      "url": "https://msk.tele2.ru/option/pack-min-gts",
+      "categoryId": null,
+      "category": "Прочее",
+      "migrated": false,
+      "descriptionMigrated": null,
+      "mobileDescription": null,
+      "popupInfoTextDisconnection": null,
+      "popupInfoTextConnection": null,
+      "abonentFeeAtConnection": true,
+      "redirectLink": null,
+      "showConnectButton": true,
+      "showDisconnectButton": true,
+      "currentPeriodAbonentFee": null,
+      "abonentFeeChargeType": "ACTIVATE_DATE_CUSTOM_PERIOD_PREPAID",
+      "slug": "pack-min-gts"
+    },
+    {
+      "billingId": "18064",
+      "name": "Месяц интернета в путешествиях",
+      "type": null,
+      "status": "AVAILABLE",
+      "disconnectionAvailabilityStatus": {
+        "disconnectOrdered": false
+      },
+      "connectionAvailabilityStatus": {
+        "canConnect": true
+      },
+      "abonentFee": {
+        "amount": 0,
+        "period": "day"
+      },
+      "changePrice": 1800.00,
+      "slogan": "Делитесь с друзьями и близкими впечатлениями в своих поездках по миру. Путешествуйте без забот!",
+      "url": "https://msk.tele2.ru/option/internet-month-travel",
+      "categoryId": "catYarTravelDiscounts",
+      "category": "Скидки в поездках",
+      "categoryPriority": 0,
+      "migrated": false,
+      "descriptionMigrated": null,
+      "mobileDescription": null,
+      "popupInfoTextDisconnection": null,
+      "popupInfoTextConnection": null,
+      "abonentFeeAtConnection": false,
+      "redirectLink": null,
+      "showConnectButton": true,
+      "showDisconnectButton": true,
+      "currentPeriodAbonentFee": null,
+      "abonentFeeChargeType": "OTHER_CHARGE_METHOD",
+      "slug": "internet-month-travel"
+    },
+    {
+      "billingId": "18671",
+      "name": "Ежедневные награды в играх",
+      "type": null,
+      "status": "AVAILABLE",
+      "disconnectionAvailabilityStatus": {
+        "disconnectOrdered": false
+      },
+      "connectionAvailabilityStatus": {
+        "canConnect": true
+      },
+      "abonentFee": {
+        "amount": 5.00,
+        "period": "day"
+      },
+      "changePrice": 0.00,
+      "slogan": "Подключите услугу и получите доступ к развлекательному контенту – ежедневной награде в онлайн-игре «Мир кораблей» в виде одного контейнера «Испытай удачу».",
+      "url": "https://msk.tele2.ru/option/daily-award",
+      "categoryId": "catYarGames",
+      "category": "Игры",
+      "categoryPriority": 0,
+      "migrated": false,
+      "descriptionMigrated": null,
+      "mobileDescription": null,
+      "popupInfoTextDisconnection": null,
+      "popupInfoTextConnection": null,
+      "abonentFeeAtConnection": true,
+      "redirectLink": null,
+      "showConnectButton": true,
+      "showDisconnectButton": true,
+      "currentPeriodAbonentFee": null,
+      "abonentFeeChargeType": "ACTIVATE_DATE_CUSTOM_PERIOD_PREPAID",
+      "slug": "daily-award"
+    },
+    {
+      "billingId": "18672",
+      "name": "Награды в играх каждый месяц",
+      "type": null,
+      "status": "AVAILABLE",
+      "disconnectionAvailabilityStatus": {
+        "disconnectOrdered": false
+      },
+      "connectionAvailabilityStatus": {
+        "canConnect": true
+      },
+      "abonentFee": {
+        "amount": 120.00,
+        "period": "month"
+      },
+      "changePrice": 0.00,
+      "slogan": "Подключите услугу и получите доступ к развлекательному контенту – ежемесячной награде в онлайн-игре «Мир кораблей» в виде премиум-эсминца V уровня в аренду на 30 дней.",
+      "url": "https://msk.tele2.ru/option/monthly-award",
+      "categoryId": "catYarGames",
+      "category": "Игры",
+      "categoryPriority": 0,
+      "migrated": false,
+      "descriptionMigrated": null,
+      "mobileDescription": null,
+      "popupInfoTextDisconnection": null,
+      "popupInfoTextConnection": null,
+      "abonentFeeAtConnection": true,
+      "redirectLink": null,
+      "showConnectButton": true,
+      "showDisconnectButton": true,
+      "currentPeriodAbonentFee": null,
+      "abonentFeeChargeType": "ACTIVATE_DATE_CUSTOM_PERIOD_PREPAID",
+      "slug": "monthly-award"
+    },
+    {
+      "billingId": "18829",
+      "name": "Дополнительные 100 МБ в сутки",
+      "type": null,
+      "status": "AVAILABLE",
+      "disconnectionAvailabilityStatus": {
+        "disconnectOrdered": false
+      },
+      "connectionAvailabilityStatus": {
+        "canConnect": true
+      },
+      "abonentFee": {
+        "amount": 6.00,
+        "period": "day"
+      },
+      "changePrice": 0.00,
+      "slogan": "Подключите услугу и получайте дополнительные 100 МБ интернет-трафика каждый день.",
+      "url": "https://msk.tele2.ru/option/100mb-per-day",
+      "categoryId": "catYar40006",
+      "category": "Интернет",
+      "categoryPriority": 0,
+      "migrated": false,
+      "descriptionMigrated": null,
+      "mobileDescription": null,
+      "popupInfoTextDisconnection": null,
+      "popupInfoTextConnection": null,
+      "abonentFeeAtConnection": true,
+      "redirectLink": null,
+      "showConnectButton": true,
+      "showDisconnectButton": true,
+      "currentPeriodAbonentFee": null,
+      "abonentFeeChargeType": "ACTIVATE_DATE_CUSTOM_PERIOD_PREPAID",
+      "slug": "100mb-per-day"
+    },
+    {
+      "billingId": "18882",
+      "name": "Безлимитные мессенджеры за границей",
+      "type": null,
+      "status": "AVAILABLE",
+      "disconnectionAvailabilityStatus": {
+        "disconnectOrdered": false
+      },
+      "connectionAvailabilityStatus": {
+        "canConnect": true
+      },
+      "abonentFee": {
+        "amount": 0.00,
+        "period": "day"
+      },
+      "changePrice": 0.00,
+      "slogan": "Бесплатный доступ к мессенджерам для обмена сообщениями даже при нуле в международном роуминге.",
+      "url": "https://msk.tele2.ru/option/unlim-messengers-abroad-cr",
+      "categoryId": "catYarTravelDiscounts",
+      "category": "Скидки в поездках",
+      "categoryPriority": 0,
+      "migrated": false,
+      "descriptionMigrated": null,
+      "mobileDescription": null,
+      "popupInfoTextDisconnection": null,
+      "popupInfoTextConnection": null,
+      "abonentFeeAtConnection": false,
+      "redirectLink": null,
+      "showConnectButton": true,
+      "showDisconnectButton": true,
+      "currentPeriodAbonentFee": null,
+      "abonentFeeChargeType": "OTHER_CHARGE_METHOD",
+      "slug": "unlim-messengers-abroad-cr"
+    },
+    {
+      "billingId": "912",
+      "name": "Гудок Дня (RBT)",
+      "type": null,
+      "status": "AVAILABLE",
+      "disconnectionAvailabilityStatus": {
+        "disconnectOrdered": false
+      },
+      "connectionAvailabilityStatus": {
+        "canConnect": true
+      },
+      "abonentFee": {
+        "amount": 1.50,
+        "period": "day"
+      },
+      "changePrice": 1.50,
+      "slogan": "",
+      "url": "",
+      "categoryId": null,
+      "category": "Прочее",
+      "migrated": false,
+      "descriptionMigrated": null,
+      "mobileDescription": null,
+      "popupInfoTextDisconnection": null,
+      "popupInfoTextConnection": null,
+      "abonentFeeAtConnection": false,
+      "redirectLink": null,
+      "showConnectButton": true,
+      "showDisconnectButton": true,
+      "currentPeriodAbonentFee": null,
+      "abonentFeeChargeType": "OTHER_CHARGE_METHOD",
+      "slug": null
+    },
+    {
+      "billingId": "112",
+      "name": "Антиопределитель номера",
+      "type": null,
+      "status": "AVAILABLE",
+      "disconnectionAvailabilityStatus": {
+        "disconnectOrdered": false
+      },
+      "connectionAvailabilityStatus": {
+        "canConnect": true
+      },
+      "abonentFee": {
+        "amount": 3.10,
+        "period": "day"
+      },
+      "changePrice": 3.10,
+      "slogan": "Скроет ваш номер при звонках",
+      "url": "https://msk.tele2.ru/option/clir",
+      "categoryId": "catYar60003",
+      "category": "Безопасность",
+      "categoryPriority": 0,
+      "migrated": false,
+      "descriptionMigrated": null,
+      "mobileDescription": null,
+      "popupInfoTextDisconnection": null,
+      "popupInfoTextConnection": null,
+      "abonentFeeAtConnection": false,
+      "redirectLink": null,
+      "showConnectButton": true,
+      "showDisconnectButton": true,
+      "currentPeriodAbonentFee": null,
+      "abonentFeeChargeType": "OTHER_CHARGE_METHOD",
+      "slug": "clir"
+    },
+    {
+      "billingId": "1232",
+      "name": "Определитель умышленно скрытых номеров",
+      "type": null,
+      "status": "AVAILABLE",
+      "disconnectionAvailabilityStatus": {
+        "disconnectOrdered": false
+      },
+      "connectionAvailabilityStatus": {
+        "canConnect": true
+      },
+      "abonentFee": {
+        "amount": 6.00,
+        "period": "day"
+      },
+      "changePrice": 100.00,
+      "slogan": "Узнайте номер того, кто вам звонит, даже если он специально скрыт",
+      "url": "https://msk.tele2.ru/option/anti-clir",
+      "categoryId": "catYar60003",
+      "category": "Безопасность",
+      "categoryPriority": 0,
+      "migrated": false,
+      "descriptionMigrated": null,
+      "mobileDescription": null,
+      "popupInfoTextDisconnection": null,
+      "popupInfoTextConnection": null,
+      "abonentFeeAtConnection": false,
+      "redirectLink": null,
+      "showConnectButton": true,
+      "showDisconnectButton": true,
+      "currentPeriodAbonentFee": null,
+      "abonentFeeChargeType": "OTHER_CHARGE_METHOD",
+      "slug": "anti-clir"
+    },
+    {
+      "billingId": "30",
+      "name": "Голосовая почта",
+      "type": null,
+      "status": "AVAILABLE",
+      "disconnectionAvailabilityStatus": {
+        "disconnectOrdered": false
+      },
+      "connectionAvailabilityStatus": {
+        "canConnect": true
+      },
+      "abonentFee": {
+        "amount": 0.50,
+        "period": "day"
+      },
+      "changePrice": 0.00,
+      "slogan": "Соберет сообщения, если до вас не дозвонились",
+      "url": "https://msk.tele2.ru/option/voice-mail",
+      "categoryId": "catMsk60002",
+      "category": "Управление звонками",
+      "categoryPriority": 0,
+      "migrated": false,
+      "descriptionMigrated": null,
+      "mobileDescription": null,
+      "popupInfoTextDisconnection": null,
+      "popupInfoTextConnection": null,
+      "abonentFeeAtConnection": false,
+      "redirectLink": null,
+      "showConnectButton": true,
+      "showDisconnectButton": true,
+      "currentPeriodAbonentFee": null,
+      "abonentFeeChargeType": "OTHER_CHARGE_METHOD",
+      "slug": "voice-mail"
+    },
+    {
+      "billingId": "2001",
+      "name": "Черный список",
+      "type": "blacklist",
+      "status": "AVAILABLE",
+      "disconnectionAvailabilityStatus": {
+        "disconnectOrdered": false
+      },
+      "connectionAvailabilityStatus": {
+        "canConnect": true
+      },
+      "abonentFee": {
+        "amount": 2.00,
+        "period": "day"
+      },
+      "changePrice": 0.00,
+      "slogan": "Заблокируйте нежелательные звонки или SMS",
+      "url": "https://msk.tele2.ru/option/black-list",
+      "categoryId": "catMsk60003",
+      "category": "Безопасность",
+      "categoryPriority": 0,
+      "migrated": false,
+      "descriptionMigrated": null,
+      "mobileDescription": null,
+      "popupInfoTextDisconnection": null,
+      "popupInfoTextConnection": null,
+      "abonentFeeAtConnection": false,
+      "redirectLink": null,
+      "showConnectButton": true,
+      "showDisconnectButton": true,
+      "currentPeriodAbonentFee": null,
+      "abonentFeeChargeType": "OTHER_CHARGE_METHOD",
+      "slug": "black-list"
+    },
+    {
+      "billingId": "110",
+      "name": "Конференц-связь",
+      "type": null,
+      "status": "AVAILABLE",
+      "disconnectionAvailabilityStatus": {
+        "disconnectOrdered": false
+      },
+      "connectionAvailabilityStatus": {
+        "canConnect": true
+      },
+      "abonentFee": {
+        "amount": 0,
+        "period": "day"
+      },
+      "changePrice": 0.00,
+      "slogan": "Общение нескольких человек одновременно",
+      "url": "https://msk.tele2.ru/option/conference-call",
+      "categoryId": "catMsk60002",
+      "category": "Управление звонками",
+      "categoryPriority": 0,
+      "migrated": false,
+      "descriptionMigrated": null,
+      "mobileDescription": null,
+      "popupInfoTextDisconnection": null,
+      "popupInfoTextConnection": null,
+      "abonentFeeAtConnection": false,
+      "redirectLink": null,
+      "showConnectButton": true,
+      "showDisconnectButton": true,
+      "currentPeriodAbonentFee": null,
+      "abonentFeeChargeType": "OTHER_CHARGE_METHOD",
+      "slug": "conference-call"
+    },
+    {
+      "billingId": "972",
+      "name": "Я на связи",
+      "type": null,
+      "status": "AVAILABLE",
+      "disconnectionAvailabilityStatus": {
+        "disconnectOrdered": false
+      },
+      "connectionAvailabilityStatus": {
+        "canConnect": true
+      },
+      "abonentFee": {
+        "amount": 0,
+        "period": null
+      },
+      "changePrice": 0.00,
+      "slogan": "Дайте знать, что вы снова на связи",
+      "url": "https://msk.tele2.ru/option/on-air",
+      "categoryId": "catMsk60002",
+      "category": "Управление звонками",
+      "categoryPriority": 0,
+      "migrated": false,
+      "descriptionMigrated": null,
+      "mobileDescription": null,
+      "popupInfoTextDisconnection": null,
+      "popupInfoTextConnection": null,
+      "abonentFeeAtConnection": false,
+      "redirectLink": null,
+      "showConnectButton": true,
+      "showDisconnectButton": true,
+      "currentPeriodAbonentFee": null,
+      "abonentFeeChargeType": "OTHER_CHARGE_METHOD",
+      "slug": "on-air"
+    },
+    {
+      "billingId": "221",
+      "name": "Запрет получения \"Пополни мой счет\"",
+      "type": null,
+      "status": "AVAILABLE",
+      "disconnectionAvailabilityStatus": {
+        "disconnectOrdered": false
+      },
+      "connectionAvailabilityStatus": {
+        "canConnect": true
+      },
+      "abonentFee": {
+        "amount": 0,
+        "period": null
+      },
+      "changePrice": 0.00,
+      "slogan": "Запрет на получение сообщений с просьбой пополнить счет от абонентов сети Tele2. Услуга предоставляется бесплатно.",
+      "url": "https://msk.tele2.ru/option/recharge-my-account",
+      "categoryId": null,
+      "category": "Прочее",
+      "migrated": false,
+      "descriptionMigrated": null,
+      "mobileDescription": null,
+      "popupInfoTextDisconnection": null,
+      "popupInfoTextConnection": null,
+      "abonentFeeAtConnection": false,
+      "redirectLink": null,
+      "showConnectButton": true,
+      "showDisconnectButton": true,
+      "currentPeriodAbonentFee": null,
+      "abonentFeeChargeType": "OTHER_CHARGE_METHOD",
+      "slug": null
+    },
+    {
+      "billingId": "1071",
+      "name": "Запрет мобильного перевода",
+      "type": null,
+      "status": "AVAILABLE",
+      "disconnectionAvailabilityStatus": {
+        "disconnectOrdered": false
+      },
+      "connectionAvailabilityStatus": {
+        "canConnect": true
+      },
+      "abonentFee": {
+        "amount": 0,
+        "period": null
+      },
+      "changePrice": 0.00,
+      "slogan": "Запрет на использование услуги \"Мобильный перевод\". Услуга предоставляется бесплатно.",
+      "url": "",
+      "categoryId": null,
+      "category": "Прочее",
+      "migrated": false,
+      "descriptionMigrated": null,
+      "mobileDescription": null,
+      "popupInfoTextDisconnection": null,
+      "popupInfoTextConnection": null,
+      "abonentFeeAtConnection": false,
+      "redirectLink": null,
+      "showConnectButton": true,
+      "showDisconnectButton": true,
+      "currentPeriodAbonentFee": null,
+      "abonentFeeChargeType": "OTHER_CHARGE_METHOD",
+      "slug": null
+    },
+    {
+      "billingId": "3643",
+      "name": "Добавить трафик",
+      "type": null,
+      "status": "AVAILABLE",
+      "disconnectionAvailabilityStatus": {
+        "disconnectOrdered": false
+      },
+      "connectionAvailabilityStatus": {
+        "canConnect": false,
+        "conflictedServices": [
+          {
+            "billingId": "1193",
+            "name": "Добавить трафик",
+            "type": null,
+            "status": "CONNECTED",
+            "disconnectionAvailabilityStatus": {
+              "canDisconnect": true,
+              "disconnectOrdered": false
+            },
+            "connectionAvailabilityStatus": {},
+            "abonentFee": {
+              "amount": null,
+              "period": null
+            },
+            "changePrice": 0,
+            "slogan": "Дополнительный 1 ГБ на 30 дней",
+            "url": "https://msk.tele2.ru/option/addtraffic-1gb",
+            "categoryId": "catMsk40006",
+            "category": "Интернет",
+            "categoryPriority": 0,
+            "migrated": false,
+            "descriptionMigrated": null,
+            "mobileDescription": null,
+            "popupInfoTextDisconnection": null,
+            "popupInfoTextConnection": null,
+            "abonentFeeAtConnection": false,
+            "redirectLink": null,
+            "showConnectButton": true,
+            "showDisconnectButton": true,
+            "currentPeriodAbonentFee": null,
+            "abonentFeeChargeType": null,
+            "slug": "addtraffic-1gb"
+          }
+        ]
+      },
+      "abonentFee": {
+        "amount": 0,
+        "period": null
+      },
+      "changePrice": 250.00,
+      "slogan": "Дополнительные 5 ГБ на 30 дней",
+      "url": "https://msk.tele2.ru/option/addtraffic-5gb",
+      "categoryId": "catMsk40006",
+      "category": "Интернет",
+      "categoryPriority": 0,
+      "migrated": false,
+      "descriptionMigrated": null,
+      "mobileDescription": null,
+      "popupInfoTextDisconnection": null,
+      "popupInfoTextConnection": null,
+      "abonentFeeAtConnection": false,
+      "redirectLink": null,
+      "showConnectButton": true,
+      "showDisconnectButton": true,
+      "currentPeriodAbonentFee": null,
+      "abonentFeeChargeType": "OTHER_CHARGE_METHOD",
+      "slug": "addtraffic-5gb"
+    },
+    {
+      "billingId": "14",
+      "name": "Безлимитная Opera mini",
+      "type": null,
+      "status": "AVAILABLE",
+      "disconnectionAvailabilityStatus": {
+        "disconnectOrdered": false
+      },
+      "connectionAvailabilityStatus": {
+        "canConnect": true
+      },
+      "abonentFee": {
+        "amount": 5.00,
+        "period": "day"
+      },
+      "changePrice": 5.00,
+      "slogan": "Интернет через браузер Opera mini без платы за трафик",
+      "url": "https://msk.tele2.ru/option/unlimited-opera-mini",
+      "categoryId": "catMsk40006",
+      "category": "Интернет",
+      "categoryPriority": 0,
+      "migrated": false,
+      "descriptionMigrated": null,
+      "mobileDescription": null,
+      "popupInfoTextDisconnection": null,
+      "popupInfoTextConnection": null,
+      "abonentFeeAtConnection": false,
+      "redirectLink": null,
+      "showConnectButton": true,
+      "showDisconnectButton": true,
+      "currentPeriodAbonentFee": null,
+      "abonentFeeChargeType": "OTHER_CHARGE_METHOD",
+      "slug": "unlimited-opera-mini"
+    }
+  ]
+}
